@@ -328,5 +328,16 @@
  		"miners":"http://pirl-pplns.cryptodig.ru/api/miners",
  		"url":"pirl-pplns.cryptodig.ru",
  		"notify":""
+ 	},
+		{
+ 		"name":"PIRL.ENCRYPTGLOBE.COM",
+ 		"stats":"https://pirl.encryptglobe.com/api/stats",
+ 		"blocks":"https://pirl.encryptglobe.com/api/blocks",
+ 		"payments":"https://pirl.encryptglobe.com/api/payments",
+ 		"accounts":"https://pirl.encryptglobe.com/api/accounts",
+ 		"miners":"https://pirl.encryptglobe.com/api/miners",
+ 		"url":"pirl.encryptglobe.com",
+ 		"notify":"support@encryptglobe.com"
  	}
+	
 ]
